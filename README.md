@@ -1,6 +1,6 @@
-# CS50-Python - CS50's Introduction to Programming with Python
+# CS50's Introduction to Programming with Python
 
-CS50-Python is Harvard University’s introduction to programming using Python. The course covers functions, arguments, return values, variables and types, conditionals and Boolean expressions, and loops. It also covers exceptions, how to find and fix bugs, write unit tests, use third-party libraries, validate and extract data with regular expressions, model real-world entities with classes, objects, methods, and properties, and read and write files.
+Harvard University’s introduction to programming using Python covers functions, arguments, return values, variables and types, conditionals and Boolean expressions, and loops. It also covers exceptions, how to find and fix bugs, write unit tests, use third-party libraries, validate and extract data with regular expressions, model real-world entities with classes, objects, methods, and properties, and read and write files.
 
 Assignments and projects completed for CS50-Python are organized into directories corresponding to the topics below:
 
